@@ -25,19 +25,11 @@ body {
   background-color: var(--light-gray);
 }
 
-.attribution { 
-  font-size: 15px; 
-  text-align: center; 
-  font-family: 'Caveat', cursive;
-  margin-top: 20px;
-}
-.attribution a { 
-  color: hsl(228, 45%, 44%); 
-}
-
 .qr-container {
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .content {
@@ -69,5 +61,15 @@ body {
   font-size: 22px; 
   padding-bottom: 1em;
   color: var(--dark-blue)
+}
+
+.attribution { 
+  font-size: 15px; 
+  text-align: center; 
+  font-family: 'Caveat', cursive;
+  margin-top: 20px;
+}
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
 }
 
