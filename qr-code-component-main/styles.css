@@ -29,7 +29,7 @@ body {
 
 .qr-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 300px 1fr;
   height: 100vh;
   grid-template-rows: 1fr 1fr 1fr;
 }
