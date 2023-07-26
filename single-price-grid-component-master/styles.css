@@ -40,6 +40,7 @@ main {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
+  border-radius: 10px;
 }
 
 .join {
@@ -108,7 +109,7 @@ main {
   margin-top: 2.25em;
   width: 100%;
   border-radius: 5px;
-box-shadow: 3px 3px 23px -1px rgba(22,94,92,0.49);
+  box-shadow: 3px 3px 23px -1px rgba(22,94,92,0.49);
 }
 
 .why-us {
