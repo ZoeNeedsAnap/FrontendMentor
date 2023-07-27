@@ -180,10 +180,7 @@ main {
     width: 100%;
   }
 
-  #attribution {
-    display: block;
-    text-align: center;
-    width: 100%;
-    padding-top: 0; 
+  #attribution { 
+    visibility: hidden;
 }
 }
