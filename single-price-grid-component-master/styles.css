@@ -180,8 +180,8 @@ main {
     width: 100%;
   }
 
-  footer {
-    display: ;
+  #attribution {
+    display: block;
     text-align: center;
     width: 100%;
     padding-top: 0; 
