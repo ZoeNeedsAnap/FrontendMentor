@@ -109,6 +109,7 @@ body {
 @media screen and (max-width: 990px) {
   body {
     display: block;
+    margin: auto;
   }
   .cars-container {
     display: grid;
