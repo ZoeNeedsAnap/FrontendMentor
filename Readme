@@ -1,0 +1,58 @@
+# Frontend Mentor Challenge Solutions
+
+This repository is for Frontend Mentor challenges I am completing to improve my HTML, CSS and Javascript skills. I highly recommend Frontend Mentor challenges if you're interested in practicing. 
+
+###Some notes about the challenges
+
+- These challenges have basic accessibility requirements. As they are written, they mostly don't pass color contrast but I was trying to meet spec so I tried to stick as closely to the comp as I could.
+- The components have responsive versions. As I went on I started working more on making the breakpoints attractive.
+
+## Challenges in this repository, in the order I completed them
+
+###QR code component
+
+
+###Results summary component
+
+
+###Single price grid component
+
+
+###3-column preview card component
+I experimented with BEM on this project. I liked the way the CSS looked.
+
+###Testimonials grid section
+I was starting to get a lot more comfortable with basic grid here, and learned some more specific styling like differentiating row and column gaps. I am really digging grid.
+I also tried to use BEM on this component but I started to confuse myself with the class names. I felt like I was creating too many classes. Also it was hard to get the quotes image to display correctly. I ended up nuking it from orbit and starting over. I'm very happy with how it came out.
+It still feels like I may have used too many classes.
+
+### Links
+
+- Solution URL: [Testimonials grid section main with grid and flexbox](https://www.frontendmentor.io/solutions/testimonials-grid-section-main-with-grid-and-flexbox-Ru9p7bp-vS)
+- Live Site URL: [Testimonials grid section page example](https://zoeneedsanap.github.io/FrontendMentor/testimonials-grid-section-main/)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+
+
+
+If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+
+**Note: Delete this note and the content within this section and replace with your own learnings.**
+
+### Continued development
+
+- I am concurrently studying Javascript. One of my goals is to use Cypress and/or Nightwatch to do automated testing at work.
+- Planning to move on to React
+- Super curious about Tailwind and SCSS
+
+### Useful resources
+
+- [CSS Tricks Flexbox Cheat Sheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Critically helpful I consult it all the time
+- [CSS Tricks Grid Cheat Sheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - ALSO critically helpful I consult it all the time
+
+
