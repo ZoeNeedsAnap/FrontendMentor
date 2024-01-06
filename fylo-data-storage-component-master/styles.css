@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+:root {
+  --pale-blue: hsl(243, 100%, 93%);
+  --grayish-blue: hsl(229, 7%, 55%);
+  --dark-blue: hsl(228, 56%, 26%);
+  --very-dark-blue: hsl(229, 57%, 11%);
+  --font-size: 14px;
+  --raleway: "Raleway", sans-serif;
+  --long-cang: "Long Cang", cursive;
+}
+
+body {
+  background-image: url("./images/bg-desktop.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-color: var(--very-dark-blue);
+  height: 800px;
+  display: flex;
+}
+
+.attribution {
+  align-self: end;
+  font-size: 25px;
+  text-align: center;
+  font-family: var(--long-cang);
+  color: var(--pale-blue);
+}
+
+.attribution a {
+  color: var(--pale-blue);
+}
+
+.attribution a:hover {
+  text-decoration: none;
+}
